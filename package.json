@@ -10,9 +10,14 @@
   "author": "Rex Holmstrom",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "ibm-watson": "^5.7.0"
+    "ibm-watson": "^5.7.0",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
